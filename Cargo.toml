@@ -1,0 +1,11 @@
+[package]
+name = "ternary-sampler"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+[lib]
+name = "ternary_sampler"
+
+[dependencies]
+rand = "0.8"
