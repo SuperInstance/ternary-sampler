@@ -200,3 +200,11 @@ This is the **analysis layer** for the DJ metaphor product stack:
 ## License
 
 MIT
+
+## See Also
+- **ternary-wave** — related
+- **ternary-grain** — related
+- **ternary-echo** — related
+- **ternary-bite** — related
+- **ternary-rack** — related
+
