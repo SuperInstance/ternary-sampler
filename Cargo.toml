@@ -1,4 +1,6 @@
 [package]
+description = "ternary-sampler - SuperInstance ecosystem crate"
+repository = "https://github.com/SuperInstance/ternary-sampler"
 name = "ternary-sampler"
 version = "0.1.0"
 edition = "2021"
